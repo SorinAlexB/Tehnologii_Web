@@ -8,7 +8,7 @@ Welcome to the Web Technologies repository! This repository showcases my progres
 
 In my first project, I focused solely on HTML to build a basic web page. This project served as a foundation for understanding the structure and elements of HTML.
 
-- [HTML-Only Project]([link-to-html-project](https://github.com/SorinAlexB/Web-Technologies/tree/main/HTML%20Project))
+- [HTML-Only Project](https://github.com/SorinAlexB/Web-Technologies/tree/main/HTML%20Project)
 
 ### 2. HTML and CSS Project
 

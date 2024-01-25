@@ -1,0 +1,122 @@
+.header {
+    overflow: hidden;
+    background-color: #1b1542;
+    padding: 20px 10px;
+    position: static;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header img{
+    width: 45px;
+    height: auto;
+}
+
+.header h1 {
+    color: rgb(36, 58, 115);
+    margin: 0;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav a {
+    font-weight: bold;
+    color: rgb(142, 143, 250);
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 25px;
+    border-radius: 4px;
+    padding: 12px;
+}
+
+.nav a:hover {
+    background-color: transparent;
+    color: rgb(142, 143, 250);
+    text-decoration: underline;
+}
+
+.nav a.active {
+    background-color: #8B0000;
+    color: rgb(142, 143, 250);
+}
+
+.nav a.active,
+.nav a.active:hover {
+    background-color: transparent;
+    color: #fff;
+}
+
+.nav a[href="index.html"] {
+    background-color: #8B0000;
+}
+
+@media screen and (max-width: 500px) {
+    .nav {
+        flex-direction: column;
+    }
+
+    .nav a {
+        padding: 6px;
+    }
+}
+
+h1,
+h2,
+p,
+td,
+th {
+    color: rgb(36, 58, 115);
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+body {
+    background-color: rgb(223, 204, 251);
+}
+
+a:link {
+    color: rgb(142, 143, 250);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(119, 82, 254);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(142, 143, 250);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(255, 0, 128);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.header img{
+    width: 50px;
+    height: auto;
+}
+
+.header h1.title {
+    margin-left: 10px;
+}
+
+.nav a[href="index.html"] {
+    background-color: #8B0000;
+}

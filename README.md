@@ -14,7 +14,7 @@ In my first project, I focused solely on HTML to build a basic web page. This pr
 
 The second project expanded on the foundation laid in the first one by introducing CSS. This allowed me to enhance the visual appeal of the web page and gain a better understanding of styling.
 
-- [HTML and CSS Project](https://github.com/SorinAlexB/Web-Technologies/tree/main/HTML%20and%20CSS%20Project)
+- [HTML and CSS Project](https://github.com/SorinAlexB/Web-Technologies/tree/main/HTML%2C%20CSS%20and%20Javascript%20Project)
 
 ### 3. HTML, CSS, and JavaScript Project
 
